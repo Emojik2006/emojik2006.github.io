@@ -1,4 +1,4 @@
 AuthType Basic 
 AuthName 'Protected Area'
-AuthUserFile .htpasswd
+AuthUserFile https://emojik2006.github.io/.htpasswd
 Require valid-user
